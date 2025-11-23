@@ -1,0 +1,3 @@
+# This is a simple Python program
+name = "GitHub User"
+print(f"Hello, {name}! You successfully added this file to your repository.")
